@@ -15,8 +15,8 @@
                 "js/background.js"
             ],
             "matches": [
-                "https://atnd.ak4.jp/attendance",
-                "http://atnd.ak4.jp/attendance"
+                "https://atnd.ak4.jp/attendance*",
+                "http://atnd.ak4.jp/attendance*"
             ]
         }
     ],
